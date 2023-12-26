@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
     <link rel="stylesheet" href="../../../css/cssComebol/graficoLibertadores.css">
-    <title>Grafico Títulos Champions</title>
+    <title>Grafico Títulos Libertadores</title>
 </head>
 <body>
     <div class="styleTabela">
@@ -49,7 +49,7 @@
                             2]);
 
             var options = {
-                title: "Grafico de titulos da champions league",
+                title: "Grafico de titulos da Sul Americana",
                 width: 1500,    
                 height: 500,
                 bar: {groupWidth: "95%"},
@@ -63,7 +63,7 @@
     </div> 
 
     <div class="divButtonStyle">
-        <a href="../champions.php" class="styleAbutton">
+        <a href="../libertadores.php" class="styleAbutton">
             <button class="btn"><img src="../../../img/incon_voltar_white.png" class="rounded" alt="" width="25px"><div class="espaIncon"></div>VOLTAR</button>
         </a>            
     </div>
