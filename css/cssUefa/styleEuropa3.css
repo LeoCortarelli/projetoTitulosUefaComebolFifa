@@ -1,10 +1,8 @@
 body{
-    background-image: url("../img/fundo2champions.png");
+    background-image: url("../../img/fundoeuropaleague.jpg");
     background-repeat: no-repeat, repeat-x;
     background-position: top right, center;
     background-size: cover;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .tituloStyle{
@@ -26,24 +24,24 @@ body{
 }
 
 .tabela th {
-    border:1px solid #000000;
-    background:rgba(0, 0, 0, 0);
+    border:1px solid #ffffff;
+    background:rgb(255, 255, 255);
     padding:5px;
-    background:#F0F0F0;
+    background:#ffffff00;
     font-size: 25px;
     font-weight: bold;
     border-radius: 5px;
+    color: white;
 }
 .tabela td {
     border:1px solid #C0C0C0;
     background:rgba(0, 0, 0, 0);
     padding:5px;
-    color: white;
-    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
     font-weight: bold;
 }
 
-/* BOTÕES VOLTAR */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
 
 .btn{

@@ -49,7 +49,7 @@
                             2]);
 
             var options = {
-                title: "Grafico de titulos da Sul Americana",
+                title: "Grafico de titulos da Libertadores",
                 width: 1500,    
                 height: 500,
                 bar: {groupWidth: "95%"},

@@ -49,7 +49,7 @@
                             2]);
 
             var options = {
-                title: "Grafico de titulos da champions league",
+                title: "Grafico de titulos da conference league",
                 width: 1500,    
                 height: 500,
                 bar: {groupWidth: "95%"},
