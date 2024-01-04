@@ -1,5 +1,5 @@
 body{
-    background-image: url("../../img/fundo2copadomundo.jpg");
+    background-image: url("");
     background-repeat: no-repeat, repeat-x;
     background-position: top right, center;
     background-size: cover;
@@ -9,7 +9,7 @@ body{
 
 .tituloStyle{
     text-align: center;
-    color: white;
+    color: rgb(255,215,0);
     font-size: 50px;
     margin-top: 20px;
     font-weight: bold;
@@ -26,20 +26,20 @@ body{
 }
 
 .tabela th {
-    border:1px solid #ffffff;
-    background:rgba(0, 0, 0, 0);
+    border:1px solid #000000;
+    background:rgb(0, 0, 0);
     padding:5px;
-    background:#f0f0f000;
+    background:gold;   
     font-size: 40px;
     font-weight: bold;
     border-radius: 5px;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 .tabela td {
     border:1px solid #C0C0C0;
     background:rgba(0, 0, 0, 0);
     padding:5px;
-    color: white;
+    color: black;
     font-size: 30px;
     font-weight: bold;
 }
@@ -51,8 +51,8 @@ body{
     font-family: Roboto, sans-serif;
     font-weight: 600;
     font-size: 19px;
-    color: #ffffff;
-    background-color: #0066cc00;
+    color: white;
+    background-color: black;
     padding: 10px 30px;
     border: solid #ffffff 2px;
     box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
@@ -70,7 +70,7 @@ body{
     transition : 1000ms;
     padding: 10px 50px;
     transform : translateY(-0px);
-    background-color: #0066cc00;
+    background-color: black;
     color: #ffffff;
     border: solid 2px #ffffff;
     
